@@ -29,7 +29,7 @@ To audit the program, follow the steps [here](https://github.com/01-edu/public/t
 
 Here's GIFs of the project:
 
-<img src="gifs/exercise1.jpg" alt="Exercise1" width="1000">
+<img src="gifs/exercise1.gif" alt="Exercise1" width="1000">
 <img src="gifs/exercise2.gif" alt="Exercise2" width="1000">
 <img src="gifs/exercise3.gif" alt="Exercise3" width="1000">
 <img src="gifs/exercise4.gif" alt="Exercise4" width="1000">
